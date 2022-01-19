@@ -4,11 +4,17 @@
 
 <p>Hello! My name is Mark O'Dowd and i'm a web developer based in N.Ireland. I specialise in building modern web applications using MongoDB, Express, React & Node (MERN). Passionate about all things programming I am continually developing my skills and you can find a variety of projects that I have worked on listed below with links to the source code of each.</p>
 
+</br>
+
 <h1 align="center">📬 Contact 📬</h1>
 
 <p>If you would like to get in touch with any enquiries my mailbox is always open so send an email directly to contact@markodowd.dev or use the following icon to open your default mail client</p>
 
 <a href="mailto:contact@markodowd.dev"><img src="https://img.shields.io/badge/Send%20Email%20-D14836?logo=gmail&logoColor=white" alt="Email Address"></a>
+
+</br>
+
+<!-- <h1 align="center">🚀 My Projects 🚀</h1> -->
 
 <h1 align="center">🛠️ Technology 🛠️</h1>
   <h3 align="center"> Front-end </h3>
@@ -29,7 +35,7 @@
 
 <h1 align="center">☕ Support ☕</h1>
 
-<p>If something on my profile has been helpfull to you and you feel like supporting me then you can use the following icon to send a tip</p>
+<p>Find something usefull on my profile and feel like supporting me? You can use the following icon to send a tip</p>
 
 <p align="center"><a href="https://www.buymeacoffee.com/markodowd"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="markodowd" /></a></p>
 
