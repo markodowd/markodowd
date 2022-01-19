@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Welcome 👋</h1>
 
-<p>Hello! My name is Mark O'Dowd and i'm a web developer based in N.Ireland. I specialise in building modern web applications using MongoDB, Express, React & Node (MERN). Passionate about all things programming I am continually developing my skills and you can find a variety of projects that I have worked on listed below with links to the source code of each.</p>
+<p>Hello! My name is Mark O'Dowd and i'm a web developer based in N.Ireland. I specialise in building modern web applications using MongoDB, Express, React and Node (MERN). Passionate about all things programming I am continually developing my skills and you can find a variety of projects that I have worked on listed below with links to the source code of each.</p>
 
 <h1 align="center">📬 Contact 📬</h1>
 
@@ -12,13 +12,15 @@
 
 <h1 align="center">🚀 My Projects 🚀</h1>
 
+<p>Below is a variety of projects that can be found across my repositories. Click on the image if you would like to see the project live or the github stats box to see the source code for that project</p>
+
 <!-- Irish Trad Image -->
-<a href="https://github.com/Irish-Trad/Irish-Trad-Client">
+<a href="https://www.irish-trad.net">
   <img width="45%" src="https://raw.githubusercontent.com/markodowd/markodowd/master/images/irish-trad.net.jpg" />
 </a>
-&nbsp;&nbsp;&nbsp;
+
 <!-- Quote Generator Image -->
-<a href="https://github.com/markodowd/REACT-quote-generator">
+<a href="https://markodowd.github.io/REACT-quote-generator/">
   <img width="45%" src="https://raw.githubusercontent.com/markodowd/markodowd/master/images/REACT-quote-generator.jpg" />
 </a>
 
@@ -26,7 +28,7 @@
 <a href="https://github.com/Irish-Trad/Irish-Trad-Client">
   <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=Irish-Trad&repo=Irish-Trad-Client&theme=github_dark" />
 </a>
-&nbsp;&nbsp;&nbsp;
+
 <!-- Quote Generator Stats -->
 <a href="https://github.com/markodowd/REACT-quote-generator">
   <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=markodowd&repo=REACT-quote-generator&theme=github_dark" />
