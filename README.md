@@ -4,17 +4,35 @@
 
 <p>Hello! My name is Mark O'Dowd and i'm a web developer based in N.Ireland. I specialise in building modern web applications using MongoDB, Express, React & Node (MERN). Passionate about all things programming I am continually developing my skills and you can find a variety of projects that I have worked on listed below with links to the source code of each.</p>
 
-</br>
-
 <h1 align="center">📬 Contact 📬</h1>
 
 <p>If you would like to get in touch with any enquiries my mailbox is always open so send an email directly to contact@markodowd.dev or use the following icon to open your default mail client</p>
 
 <a href="mailto:contact@markodowd.dev"><img src="https://img.shields.io/badge/Send%20Email%20-D14836?logo=gmail&logoColor=white" alt="Email Address"></a>
 
-</br>
+<h1 align="center">🚀 My Projects 🚀</h1>
 
-<!-- <h1 align="center">🚀 My Projects 🚀</h1> -->
+<!-- Irish Trad Image -->
+<a href="https://github.com/Irish-Trad/Irish-Trad-Client">
+  <img width="45%" src="https://raw.githubusercontent.com/markodowd/markodowd/master/images/irish-trad.net.jpg" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<!-- Quote Generator Image -->
+<a href="https://github.com/markodowd/REACT-quote-generator">
+  <img width="45%" src="https://raw.githubusercontent.com/markodowd/markodowd/master/images/REACT-quote-generator.jpg" />
+</a>
+
+<!-- Irish Trad Repo Stats -->
+<a href="https://github.com/Irish-Trad/Irish-Trad-Client">
+  <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=Irish-Trad&repo=Irish-Trad-Client&theme=github_dark" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<!-- Quote Generator Stats -->
+<a href="https://github.com/markodowd/REACT-quote-generator">
+  <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=markodowd&repo=REACT-quote-generator&theme=github_dark" />
+</a>
+
+<br/>
 
 <h1 align="center">🛠️ Technology 🛠️</h1>
   <h3 align="center"> Front-end </h3>
