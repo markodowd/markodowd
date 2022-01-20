@@ -41,20 +41,20 @@
   <img width="45%" src="https://raw.githubusercontent.com/markodowd/markodowd/master/images/REACT-text-to-speech.jpg" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<!-- Blank Image -->
+<!-- Blank Image
 <a href="">
   <img width="45%" src="" />
-</a>
+</a> -->
 
 <!-- Text to Speech Stats -->
 <a href="https://github.com/markodowd/REACT-text-to-speech">
   <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=markodowd&repo=REACT-text-to-speech&theme=github_dark" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<!-- Blank Stats -->
+<!-- Blank Stats
 <a href="">
   <img width="45%" src="" />
-</a>
+</a> -->
 
 <br/>
 
