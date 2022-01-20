@@ -18,20 +18,42 @@
 <a href="https://www.irish-trad.net">
   <img width="45%" src="https://raw.githubusercontent.com/markodowd/markodowd/master/images/irish-trad.net.jpg" />
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <!-- Quote Generator Image -->
 <a href="https://markodowd.github.io/REACT-quote-generator/">
   <img width="45%" src="https://raw.githubusercontent.com/markodowd/markodowd/master/images/REACT-quote-generator.jpg" />
 </a>
 
-<!-- Irish Trad Repo Stats -->
+<!-- Irish Trad Stats -->
 <a href="https://github.com/Irish-Trad/Irish-Trad-Client">
   <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=Irish-Trad&repo=Irish-Trad-Client&theme=github_dark" />
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <!-- Quote Generator Stats -->
 <a href="https://github.com/markodowd/REACT-quote-generator">
   <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=markodowd&repo=REACT-quote-generator&theme=github_dark" />
+</a>
+
+<br/>
+
+<!-- Text to Speech Image -->
+<a href="https://markodowd.github.io/REACT-text-to-speech/">
+  <img width="45%" src="https://raw.githubusercontent.com/markodowd/markodowd/master/images/REACT-text-to-speech.jpg" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<!-- Blank Image -->
+<a href="">
+  <img width="45%" src="" />
+</a>
+
+<!-- Text to Speech Stats -->
+<a href="https://github.com/markodowd/REACT-text-to-speech">
+  <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=markodowd&repo=REACT-text-to-speech&theme=github_dark" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<!-- Blank Stats -->
+<a href="">
+  <img width="45%" src="" />
 </a>
 
 <br/>
