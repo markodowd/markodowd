@@ -52,7 +52,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 <!-- NASA Picture Of The Day Stats -->
-<a href="https://markodowd.github.io/PREACT-NASA-picture-of-the-day/">
+<a href="https://github.com/markodowd/PREACT-NASA-picture-of-the-day/">
   <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=markodowd&repo=PREACT-NASA-picture-of-the-day&theme=github_dark" />
 </a>
 
