@@ -2,17 +2,17 @@
 
 <h1 align="center">👋 Welcome 👋</h1>
 
-<p>Hello! My name is Mark O'Dowd. I'm a Software Engineer focused on web development based in N.Ireland. I specialise in building modern web applications using MongoDB, Express, React (Next) and Node - The MERN stack. Passionate about all things programming I am continually developing my skills. You can find a variety of open-sourced projects that I have worked on listed below with links to the source code of each.</p>
+<p align="left">Hello! My name is Mark O'Dowd. I'm a Software Engineer focused on web development based in N.Ireland. I specialise in building modern web applications using MongoDB, Express, React (Next) and Node - The MERN stack. Passionate about all things programming I am continually developing my skills. You can find a variety of open-sourced projects that I have worked on listed below with links to the source code of each.</p>
 
 <h1 align="center">📬 Contact 📬</h1>
 
-<p>If you would like to get in touch with any enquiries my mailbox is always open so send an email directly to contact@markodowd.dev or use the following icon to open your default mail client</p>
+<p align="left">If you would like to get in touch with any enquiries my mailbox is always open so send an email directly to contact@markodowd.dev or use the following icon to open your default mail client</p>
 
 <a href="mailto:contact@markodowd.dev"><img src="https://img.shields.io/badge/Send%20Email%20-D14836?logo=gmail&logoColor=white" alt="Email Address"></a>
 
 <h1 align="center">🚀 My Projects 🚀</h1>
 
-<p>Below is a variety of projects that can be found across my repositories. Click on the image if you would like to see the project live or the github stats box to see the source code for that project</p>
+<p align="left">Below is a variety of projects that can be found across my repositories. Click on the image if you would like to see the project live or the github stats box to see the source code for that project</p>
 
 <!-- Irish Trad Image -->
 <a href="https://www.irish-trad.net">
@@ -77,7 +77,7 @@
 
 <h1 align="center">☕ Support ☕</h1>
 
-<p>Find something usefull on my profile and feel like supporting me? You can use the following icon to send a tip</p>
+<p align="center">Find something useful on my profile and feel like supporting me? You can use the following icon to send a tip</p>
 
 <p align="center"><a href="https://www.buymeacoffee.com/markodowd"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="markodowd" /></a></p>
 
