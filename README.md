@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Welcome 👋</h1>
 
-<p>Hello! My name is Mark O'Dowd and i'm a web developer based in N.Ireland. I specialise in building modern web applications using MongoDB, Express, React and Node (MERN). Passionate about all things programming I am continually developing my skills and you can find a variety of projects that I have worked on listed below with links to the source code of each.</p>
+<p>Hello! My name is Mark O'Dowd. I'm a Software Engineer focused on web development based in N.Ireland. I specialise in building modern web applications using MongoDB, Express, React (Next) and Node - The MERN stack. Passionate about all things programming I am continually developing my skills. You can find a variety of open-sourced projects that I have worked on listed below with links to the source code of each.</p>
 
 <h1 align="center">📬 Contact 📬</h1>
 
