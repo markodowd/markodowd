@@ -127,4 +127,10 @@
 
 <p align="center"><a href="https://www.buymeacoffee.com/markodowd"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="markodowd" /></a></p>
 
+<h1 align="center">☕ Support ☕</h1>
+
+<p align="center">Find something useful on my profile and feel like supporting me? You can use the following icon to send a tip</p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/markodowd"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="markodowd" /></a></p>
+
 </div>
