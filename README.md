@@ -83,17 +83,19 @@
       <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
     </p>
 
-<h1 align="center">☕ Support ☕</h1>
+<br />
 
-<p>Find something usefull on my profile and feel like supporting me? You can use the following icon to send a tip</p>
+<h1 align="center">📬 Contact 📬</h1>
 
-<p align="center"><a href="https://www.buymeacoffee.com/markodowd"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="markodowd" /></a></p>
+<p align="left">If you would like to get in touch with any enquiries my mailbox is always open so send an email directly to contact@markodowd.dev or use the following icon to open your default mail client</p>
+
+<a href="mailto:contact@markodowd.dev"><img src="https://img.shields.io/badge/Send%20Email%20-D14836?logo=gmail&logoColor=white" alt="Email Address"></a>
 
 <br />
 
 <h1 align="center">🏅 Certificates 🏅</h1>
 
-<p>While certificates don't really showcase proficiency in any meaningful way I like to keep track of what I have earned as they showcase my continued dedication towards learning, improvement and exposure to various technologies</p>
+<p align="left">While certificates don't really showcase proficiency in any meaningful way I like to keep track of what I have earned as they showcase my continued dedication towards learning, improvement and exposure to various technologies</p>
 
 <a href="https://www.freecodecamp.org/certification/itsmarkodowd/responsive-web-design"> Responsive Web Design</a>
 
@@ -118,5 +120,11 @@
 </a>
 
 <br />
+
+<h1 align="center">☕ Support ☕</h1>
+
+<p align="left">Find something useful on my profile and feel like supporting me? You can use the following icon to send a tip</p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/markodowd"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="markodowd" /></a></p>
 
 </div>
