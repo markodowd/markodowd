@@ -24,12 +24,11 @@
 
 <!-- MODToken Image -->
 <a href="https://sepolia.etherscan.io/token/0x0b2c57ea7d97fea0100f51e2d261f700b238aa92">
-  <img width="45%" src="https://raw.githubusercontent.com/markodowd/markodowd/master/images/erc20-token.jpg" />
+  <img width="51%" src="https://raw.githubusercontent.com/markodowd/markodowd/master/images/erc20-token.jpg" />
 </a>
-
 <!-- MODToken Stats -->
 <a href="https://github.com/markodowd/MOD-Token">
-  <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=markodowd&repo=MOD-Token&theme=github_dark" />
+  <img width="51%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=markodowd&repo=MOD-Token&theme=github_dark" />
 </a>
 
 <h1 align="center">🚀 Passion Projects 🚀</h1>
@@ -41,7 +40,7 @@
 &nbsp;&nbsp;&nbsp;
 <!-- Daily Irish Twitter/X Bot -->
 <a href="http://dailyirish.net/" target="_blank">
-  <img width="45%" src="https://github.com/markodowd/daily-irish" />
+  <img width="45%" src="https://raw.githubusercontent.com/markodowd/markodowd/master/images/daily-irish" />
 </a>
 
 <!-- Irish Trad Stats -->
@@ -58,12 +57,12 @@
 
 <!-- Quote Generator Image -->
 <a href="https://markodowd.github.io/REACT-quote-generator/">
-  <img width="45%" src="https://raw.githubusercontent.com/markodowd/markodowd/master/images/REACT-quote-generator.jpg" />
+  <img width="51%" src="https://raw.githubusercontent.com/markodowd/markodowd/master/images/REACT-quote-generator.jpg" />
 </a>
 
 <!-- Quote Generator Stats -->
 <a href="https://github.com/markodowd/REACT-quote-generator">
-  <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=markodowd&repo=REACT-quote-generator&theme=github_dark" />
+  <img width="51%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=markodowd&repo=REACT-quote-generator&theme=github_dark" />
 </a>
 
 <br/>
