@@ -40,7 +40,7 @@
 &nbsp;&nbsp;&nbsp;
 <!-- Daily Irish Twitter/X Bot -->
 <a href="http://dailyirish.net/" target="_blank">
-  <img width="45%" src="https://raw.githubusercontent.com/markodowd/markodowd/master/images/daily-irish" />
+  <img width="45%" src="https://raw.githubusercontent.com/markodowd/markodowd/master/images/daily-irish.jpg" />
 </a>
 
 <!-- Irish Trad Stats -->
