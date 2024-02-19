@@ -1,5 +1,7 @@
 <div align="center">
 
+<hr>
+
 <h1 align="center">👋 Welcome 👋</h1>
 
 <p align="left">Hello! My name is Mark O'Dowd. I'm a software engineer based in N.Ireland that specialises in building modern web applications using the MERN stack - MongoDB, Express, React (Next) and Node while incorporating the AWS ecosystem.</p>
@@ -7,6 +9,8 @@
 <p align="left">Passionate about all things programming I'm continually developing my skills. You can find a variety of open-source projects that I work on listed below with links to the code for each.</p>
 
 <br />
+
+<hr>
 
 <h1 align="center">📬 Contact 📬</h1>
 
@@ -18,9 +22,11 @@
 
 <br />
 
-<p align="left">Below is a variety of projects that can be found across my repositories. Click on the image if you would like to see the project live or the github stats box to see the source code for that project</p>
+<hr>
 
 <h1 align="center">🚀 Blockchain Projects 🚀</h1>
+
+<p align="left">Click on the image if you would like to see the project live or the github stats box to see the source code for that project</p>
 
 <!-- MODToken Image -->
 <a href="https://sepolia.etherscan.io/token/0x0b2c57ea7d97fea0100f51e2d261f700b238aa92">
@@ -31,7 +37,13 @@
   <img width="51%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=markodowd&repo=MOD-Token&theme=github_dark" />
 </a>
 
+<br />
+
+<hr>
+
 <h1 align="center">🚀 Passion Projects 🚀</h1>
+
+<p align="left">Click on the image if you would like to see the project live or the github stats box to see the source code for that project</p>
 
 <!-- Irish Trad Image -->
 <a href="https://www.irish-trad.net">
@@ -53,7 +65,11 @@
   <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=markodowd&repo=daily-irish&theme=github_dark" />
 </a>
 
+<hr>
+
 <h1 align="center">🚀 React Projects 🚀</h1>
+
+<p align="left">Click on the image if you would like to see the project live or the github stats box to see the source code for that project</p>
 
 <!-- Quote Generator Image -->
 <a href="https://markodowd.github.io/REACT-quote-generator/">
@@ -89,6 +105,8 @@
 
 <br/>
 
+<hr>
+
 <h1 align="center">🛠️ Technology 🛠️</h1>
   <h3 align="center"> Front-end </h3>
     <p>  
@@ -106,7 +124,9 @@
       <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
     </p>
 
-<br />
+<br/>
+
+<hr>
 
 <h1 align="center">📬 Contact 📬</h1>
 
@@ -114,7 +134,9 @@
 
 <a href="mailto:contact@markodowd.dev"><img src="https://img.shields.io/badge/Send%20Email%20-D14836?logo=gmail&logoColor=white" alt="Email Address"></a>
 
-<br />
+<br/>
+
+<hr>
 
 <h1 align="center">🏅 Certificates 🏅</h1>
 
@@ -128,7 +150,9 @@
 
 <a href="https://www.udemy.com/certificate/UC-AFD7QAM9/">Complete Python Bootcamp</a>
 
-<br />
+<br/>
+
+<hr>
 
 <h1 align="center">📊 GitHub Stats 📊</h1>
 
@@ -142,7 +166,9 @@
   <img height="180em" src="https://github-readme-stats-snowy-mu.vercel.app/api/top-langs/?username=markodowd&layout=compact&langs_count=8&theme=github_dark&hide=liquid&exclude_repo=PyCheckiO&include_private=true&include_forks=true"/>
 </a>
 
-<br />
+<br/>
+
+<hr>
 
 <h1 align="center">☕ Support ☕</h1>
 
