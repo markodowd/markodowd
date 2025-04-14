@@ -1,47 +1,6 @@
 <div align="center">
 
-<hr>
-
-<h1 align="center">👋 Welcome 👋</h1>
-
-<p align="left">Hello! My name is Mark O'Dowd. I'm a software engineer based in N.Ireland that specialises in building modern web applications using the MERN stack - MongoDB, Express, React (Next) and Node while incorporating the AWS ecosystem.</p>
-
-<p align="left">Passionate about all things programming I'm continually developing my skills. You can find a variety of open-source projects that I work on listed below with links to the code for each.</p>
-
-<br />
-
-<hr>
-
-<h1 align="center">📬 Contact 📬</h1>
-
-<p align="left">If you would like to get in touch with any enquiries my mailbox is always open so send an email directly to contact@markodowd.dev or use the following icon to open your default mail client</p>
-
-<a href="mailto:contact@markodowd.dev">
-<div width="100%" background="orange">Click To Open Mail Client</div> 
-</a>
-
-<br />
-
-<hr>
-
-<h1 align="center">🚀 Blockchain Projects 🚀</h1>
-
-<p align="left">Click on the image if you would like to see the project live or the github stats box to see the source code for that project</p>
-
-<!-- MODToken Image -->
-<a href="https://sepolia.etherscan.io/token/0x0b2c57ea7d97fea0100f51e2d261f700b238aa92">
-  <img width="51%" src="https://raw.githubusercontent.com/markodowd/markodowd/master/images/erc20-token.jpg" />
-</a>
-<!-- MODToken Stats -->
-<a href="https://github.com/markodowd/MOD-Token">
-  <img width="51%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=markodowd&repo=MOD-Token&theme=github_dark" />
-</a>
-
-<br />
-
-<hr>
-
-<h1 align="center">🚀 Passion Projects 🚀</h1>
+<h1 align="center">🚀 Projects 🚀</h1>
 
 <p align="left">Click on the image if you would like to see the project live or the github stats box to see the source code for that project</p>
 
@@ -64,46 +23,6 @@
 <a href="https://github.com/markodowd/daily-irish">
   <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=markodowd&repo=daily-irish&theme=github_dark" />
 </a>
-
-<hr>
-
-<h1 align="center">🚀 React Projects 🚀</h1>
-
-<p align="left">Click on the image if you would like to see the project live or the github stats box to see the source code for that project</p>
-
-<!-- Quote Generator Image -->
-<a href="https://markodowd.github.io/REACT-quote-generator/">
-  <img width="51%" src="https://raw.githubusercontent.com/markodowd/markodowd/master/images/REACT-quote-generator.jpg" />
-</a>
-
-<!-- Quote Generator Stats -->
-<a href="https://github.com/markodowd/REACT-quote-generator">
-  <img width="51%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=markodowd&repo=REACT-quote-generator&theme=github_dark" />
-</a>
-
-<br/>
-
-<!-- Text to Speech Image -->
-<a href="https://markodowd.github.io/REACT-text-to-speech/">
-  <img width="45%" src="https://raw.githubusercontent.com/markodowd/markodowd/master/images/REACT-text-to-speech.jpg" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<!-- NASA Picture Of The Day Image -->
-<a href="https://markodowd.github.io/PREACT-NASA-picture-of-the-day/">
-  <img width="45%" src="https://raw.githubusercontent.com/markodowd/markodowd/master/images/NASA-picture-of-the-day.jpg" />
-</a>
-
-<!-- Text to Speech Stats -->
-<a href="https://github.com/markodowd/REACT-text-to-speech">
-  <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=markodowd&repo=REACT-text-to-speech&theme=github_dark" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<!-- NASA Picture Of The Day Stats -->
-<a href="https://github.com/markodowd/PREACT-NASA-picture-of-the-day/">
-  <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=markodowd&repo=PREACT-NASA-picture-of-the-day&theme=github_dark" />
-</a>
-
-<br/>
 
 <hr>
 
@@ -133,22 +52,6 @@
 <p align="left">If you would like to get in touch with any enquiries my mailbox is always open so send an email directly to contact@markodowd.dev or use the following icon to open your default mail client</p>
 
 <a href="mailto:contact@markodowd.dev"><img src="https://img.shields.io/badge/Send%20Email%20-D14836?logo=gmail&logoColor=white" alt="Email Address"></a>
-
-<br/>
-
-<hr>
-
-<h1 align="center">🏅 Certificates 🏅</h1>
-
-<p align="left">While certificates don't really showcase proficiency in any meaningful way I like to keep track of what I have earned as they showcase my continued dedication towards learning, improvement and exposure to various technologies</p>
-
-<a href="https://www.freecodecamp.org/certification/itsmarkodowd/responsive-web-design"> Responsive Web Design</a>
-
-<a href="https://www.udemy.com/certificate/UC-WVK3IS1Q/"> The Complete Web Developer: Zero to Mastery</a>
-
-<a href="https://www.freecodecamp.org/certification/itsmarkodowd/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures</a>
-
-<a href="https://www.udemy.com/certificate/UC-AFD7QAM9/">Complete Python Bootcamp</a>
 
 <br/>
 
