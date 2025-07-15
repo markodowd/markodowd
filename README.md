@@ -14,16 +14,6 @@
   <img width="45%" src="https://raw.githubusercontent.com/markodowd/markodowd/master/images/daily-irish.jpg" />
 </a>
 
-<!-- Irish Trad Stats -->
-<a href="https://github.com/Irish-Trad/Irish-Trad-Client">
-  <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=Irish-Trad&repo=Irish-Trad-Client&theme=github_dark" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<!-- Daily Irish Twitter/X Stats -->
-<a href="https://github.com/markodowd/daily-irish">
-  <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=markodowd&repo=daily-irish&theme=github_dark" />
-</a>
-
 <hr>
 
 <h1 align="center">🛠️ Technology 🛠️</h1>
