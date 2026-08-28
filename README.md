@@ -2,9 +2,13 @@
 
 <h1 align="center">🚀 Projects 🚀</h1>
 
-[**IrishTrad.ie**](https://www.irishtrad.ie) - Online Hub for Irish Traditional Music — Sheet Music, Ear Training, and Tools for Every Session Instrument
+[**IrishTrad.ie**](https://www.irishtrad.ie) - All-in-one toolkit for learning and playing Irish traditional music including:
+- Sheet Music & Tablature
+- Ear & Sight Training Tools
+- Metronome
+- Chromatic & Pitch Tuner
 
-[**Mushin Jujitsu Trainer**](https://www.jujitsu.ie) - Digital companion for the WJJF Ireland syllabus: Master the theory and anatomy
+[**Jujitsu Trainer**](https://www.jujitsu.ie) - Digital companion for the WJJF Ireland syllabus: Master theory and anatomy
 
 <hr>
 
